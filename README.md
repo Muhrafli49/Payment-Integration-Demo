@@ -1,4 +1,4 @@
-#### **Payment Gateway Demo**
+## **Payment Gateway Demo**
 
 Repositori ini berisi proyek sederhana **Payment Gateway** yang diimplementasikan dengan **Midtrans**. Proyek ini terdiri dari dua komponen utama:
 
