@@ -1,17 +1,17 @@
-Payment Gateway Demo
+#### **Payment Gateway Demo**
 
-This repository contains a simple payment gateway project implemented with Midtrans. The project consists of two main components:
+Repositori ini berisi proyek sederhana **Payment Gateway** yang diimplementasikan dengan **Midtrans**. Proyek ini terdiri dari dua komponen utama:
 
-Client: The frontend simple demo.
+- **Client**: Demo sederhana untuk frontend.
+- **API**: Server backend.
 
-API: The backend server.
+---
 
-Getting Started
+## **Getting Started**
 
-Prerequisites
+### **Prerequisites**
+Sebelum memulai, pastikan Anda memiliki:
 
-Node.js
-
-npm or yarn
-
-A Midtrans account
+- **Node.js**
+- **npm** atau **yarn**
+- Akun **Midtrans**
